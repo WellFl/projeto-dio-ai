@@ -31,3 +31,7 @@ Se você não pretende fazer mais exercícios, exclua quaisquer recursos que nã
 1. Abra o portal do Azure em https://portal.azure.com e selecione o grupo de recursos que contém os recursos que você criou.
 
 2. Selecione os recursos e selecione Delete e depois Yes para confirmar. Os recursos são então excluídos.
+
+## Fontes
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
